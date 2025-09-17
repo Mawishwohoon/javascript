@@ -15,3 +15,6 @@ while(i<10){
     }
     i++;
 }
+if(i>=10){
+    alert("You lost! No chances left")
+}
